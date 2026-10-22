@@ -1,0 +1,5 @@
+{
+  "name": "AI Health Predictor",
+  "description": "An AI-powered application to predict the risk of heart disease, liver disease, and diabetes using user-provided health parameters. It simulates logistic regression models via the Gemini API to provide predictions, probabilities, and accuracy estimates.",
+  "requestFramePermissions": []
+}
